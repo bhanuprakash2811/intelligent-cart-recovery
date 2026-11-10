@@ -1,0 +1,27 @@
+{
+  "generator": "app/generate.py",
+  "seed": 20261022,
+  "generated_at": "2026-10-22T12:00:00+00:00",
+  "scale": {
+    "customers": 20000,
+    "carts": 50000,
+    "abandoned": 20000,
+    "sends": 10000
+  },
+  "files": {
+    "customers.csv": "9900417db786b1aed5084c1299eb287f1c8cc2a0c777e1231d954a089ee4153b",
+    "consents.csv": "cd08890efc32cf618fa9e5494f4e82c7c268e3eda49e04eb77608f41148f1301",
+    "consent_events.csv": "66f14001467a17cce4b45d872408cc7b0106ce0b29ca753465e33167e5b29d84",
+    "sessions.csv": "e752b19ff0f6bb64bd93a29b0a514be204ee643f72c08054d56dcece7745891c",
+    "carts.csv": "6ae9d1bc88281fb85e99b1ae298379386496162c0dbf39e81eca9170c82e6c4c",
+    "cart_lines.csv": "04522dc7b770f32f4d0212774ec3dd18211467cb387df618b407181de3e19c78",
+    "cart_status_events.csv": "b6475d32ec7e62ffd43f947a6e5794ec45a69bcd2d952e00399f9a567e25dfe0",
+    "campaigns.csv": "ba0bf924b47549a30a587271222c773fff932e1b3f46ff7c8ae988a0d16a57e8",
+    "message_templates.csv": "7de6ed24ec5a2aec5c94631e25ee882fe7d4f1e5988faa48c9a104ce636af879",
+    "frequency_cap_logs.csv": "bfc933b3f020b8f4c8d3bd55bc071f761011f1f2e13e355f5c2fa0970f840c0f",
+    "send_attempts.csv": "93a843e1e42527ff7fe85bac2e31356c679ee42e19117f63cf647d8df1d97514",
+    "orders.csv": "e883654adfc45b931954ed8c336a8bfced6173224481b68c3cecb661c4f0c116",
+    "attributions.csv": "a7ad0666dde1a08b30c3e1f0943aebe2be75c0cdd0e2c2136113e89f93add297"
+  },
+  "note": "All data is fully synthetic. Email domains use .test TLD."
+}

@@ -1,0 +1,6 @@
+campaign_id,name,channel,delay_minutes,active
+CMP-2026-001,Initial Cart Reminder,EMAIL,60,True
+CMP-2026-002,High-Value Cart Reminder,EMAIL,120,True
+CMP-2026-003,SMS Recovery Nudge,SMS,360,True
+CMP-2026-004,Final Email Reminder,EMAIL,1440,True
+CMP-2026-005,SMS Last-Chance,SMS,2880,True

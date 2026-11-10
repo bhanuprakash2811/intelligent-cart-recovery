@@ -1,0 +1,27 @@
+template_id,campaign_id,subject,body
+MSG-CMP-2026-001-01,CMP-2026-001,You left something in your cart!,"Hi {{customer_name}},
+
+You left {{item_count}} item(s) worth {{cart_total}} in your cart.
+Complete your purchase before they sell out.
+
+Shop now: {{cart_url}}
+
+To unsubscribe reply STOP."
+MSG-CMP-2026-002-01,CMP-2026-002,You left something in your cart!,"Hi {{customer_name}},
+
+You left {{item_count}} item(s) worth {{cart_total}} in your cart.
+Complete your purchase before they sell out.
+
+Shop now: {{cart_url}}
+
+To unsubscribe reply STOP."
+MSG-CMP-2026-003-01,CMP-2026-003,Your cart is waiting — tap to complete your order,Hi {{customer_name}}! Your cart ({{cart_total}}) is waiting. Complete now: {{cart_url}} Reply STOP to opt out.
+MSG-CMP-2026-004-01,CMP-2026-004,You left something in your cart!,"Hi {{customer_name}},
+
+You left {{item_count}} item(s) worth {{cart_total}} in your cart.
+Complete your purchase before they sell out.
+
+Shop now: {{cart_url}}
+
+To unsubscribe reply STOP."
+MSG-CMP-2026-005-01,CMP-2026-005,Your cart is waiting — tap to complete your order,Hi {{customer_name}}! Your cart ({{cart_total}}) is waiting. Complete now: {{cart_url}} Reply STOP to opt out.

@@ -1,0 +1,20 @@
+services:
+  db:
+    image: postgres:16
+    container_name: yottaflex-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: yottaflex
+      POSTGRES_USER: yottaflex
+      POSTGRES_PASSWORD: yottaflex_local_only
+    ports:
+      - "5433:5432"
+    volumes:
+      - yottaflex_pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U yottaflex -d yottaflex"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+volumes:
+  yottaflex_pgdata:

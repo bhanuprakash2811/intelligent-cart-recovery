@@ -1,0 +1,126 @@
+edge_case_id,issue_type,record_table,record_id,description,expected_decision,created_at
+EC-000001,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009948,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000002,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0004897,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000003,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009786,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000004,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0003565,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000005,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007744,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000006,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007177,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000007,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0002394,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000008,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0002188,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000009,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0003431,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000010,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0006292,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000011,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0006550,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000012,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0008645,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000013,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007091,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000014,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0004843,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000015,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0001918,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000016,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0008845,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000017,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009080,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000018,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0005054,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000019,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0005084,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000020,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009910,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000021,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009631,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000022,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0001024,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000023,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007445,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000024,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0006755,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000025,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0000828,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000026,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0002675,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000027,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0003913,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000028,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007045,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000029,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0004932,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000030,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0008300,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000031,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0000669,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000032,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0002454,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000033,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0003875,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000034,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0004225,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000035,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0004937,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000036,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009675,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000037,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0008072,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000038,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007308,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000039,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0006785,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000040,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0000734,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000041,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0000528,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000042,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0001957,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000043,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0009679,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000044,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0006519,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000045,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0008649,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000046,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007464,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000047,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0004131,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000048,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0000740,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000049,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0007713,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000050,MSG_AFTER_OPT_OUT,send_attempts,SEND-2026-0006585,Message delivered after customer opted out of this channel,SUPPRESS_RETROACTIVELY,2026-10-22 12:00:00+00:00
+EC-000051,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0017387,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000052,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0005538,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000053,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0006366,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000054,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0005719,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000055,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0017618,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000056,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0000183,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000057,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0016027,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000058,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0011952,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000059,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0010871,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000060,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0013979,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000061,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0012579,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000062,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0004174,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000063,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0014677,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000064,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0005781,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000065,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0000201,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000066,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0010380,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000067,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0010169,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000068,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0017710,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000069,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0000751,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000070,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0008962,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000071,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0018670,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000072,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0001247,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000073,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0003916,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000074,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0012970,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000075,ABANDONED_AFTER_PURCHASE,carts,CART-2026-0005091,Cart labelled abandoned even though a recovery order exists,RECLASSIFY_AS_RECOVERED,2026-10-22 12:00:00+00:00
+EC-000076,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000389,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000077,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000390,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000078,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000391,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000079,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000392,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000080,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000393,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000081,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000394,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000082,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000395,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000083,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000396,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000084,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000397,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000085,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000398,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000086,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000399,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000087,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000400,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000088,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000401,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000089,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000402,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000090,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000403,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000091,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000404,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000092,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000405,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000093,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000406,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000094,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000407,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000095,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000408,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000096,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000409,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000097,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000410,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000098,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000411,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000099,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000412,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000100,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000413,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000101,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000414,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000102,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000415,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000103,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000416,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000104,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000417,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000105,ATTRIBUTION_DOUBLE_COUNT,attributions,ATT-2026-0000418,Order attributed to two campaigns simultaneously,KEEP_LAST_CLICK_ONLY,2026-10-22 12:00:00+00:00
+EC-000106,STALE_CART_TOTAL,carts,CART-2026-0036727,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000107,STALE_CART_TOTAL,carts,CART-2026-0013556,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000108,STALE_CART_TOTAL,carts,CART-2026-0024517,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000109,STALE_CART_TOTAL,carts,CART-2026-0028091,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000110,STALE_CART_TOTAL,carts,CART-2026-0013884,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000111,STALE_CART_TOTAL,carts,CART-2026-0013384,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000112,STALE_CART_TOTAL,carts,CART-2026-0016110,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000113,STALE_CART_TOTAL,carts,CART-2026-0006224,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000114,STALE_CART_TOTAL,carts,CART-2026-0014938,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000115,STALE_CART_TOTAL,carts,CART-2026-0048938,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000116,STALE_CART_TOTAL,carts,CART-2026-0036545,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000117,STALE_CART_TOTAL,carts,CART-2026-0011228,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000118,STALE_CART_TOTAL,carts,CART-2026-0048657,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000119,STALE_CART_TOTAL,carts,CART-2026-0007279,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000120,STALE_CART_TOTAL,carts,CART-2026-0009856,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000121,STALE_CART_TOTAL,carts,CART-2026-0037342,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000122,STALE_CART_TOTAL,carts,CART-2026-0021084,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000123,STALE_CART_TOTAL,carts,CART-2026-0011161,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000124,STALE_CART_TOTAL,carts,CART-2026-0025699,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
+EC-000125,STALE_CART_TOTAL,carts,CART-2026-0021036,cart.total_amount does not match sum of cart_lines extensions,RECOMPUTE_FROM_LINES,2026-10-22 12:00:00+00:00
